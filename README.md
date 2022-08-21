@@ -1,2 +1,2 @@
 # Machine-Learning-project
-machine learning model based on KNN algorithm 
+Machine Learning Model trained using KNN algorithm 
